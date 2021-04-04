@@ -2,7 +2,7 @@
 
 Olá!
 
-O arquivo html foi feito no software da adobe, o dreamweaver, por eu ter mais familiaridade com ele e ter usado na faculdade durante o aprendizado, nele é possível desenvolver
+O arquivo HTML foi feito no software da adobe, o Dreamweaver, por eu ter mais familiaridade com ele e ter usado na faculdade durante o aprendizado, nele é possível desenvolver
 tanto o HTML quanto o CSS, então por isso eles acabaram ficando juntos em um arquivo só. Foi usado, em sua maioria, medidas em porcentagem, para que ele fique melhor representado 
 nas mais variadas dimensões de web. Além disso, tentei não alterar os elementos principais, que eram textos e imagens. Eu coloquei a própria imagem de fundo na página mais pra ser 
 algo visualmente ilustrativo e não ficar uma cor sólida e chapada de fundo que, apesar de ficar meio repetitivo, creio que ficou mais interessante.
